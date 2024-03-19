@@ -16,8 +16,14 @@
 ![Home_LongTwo](https://github.com/jienian/HomeBox/assets/45189482/e47be52b-4427-4af9-8eab-5fa5a9735344)
 ### 6.音乐模块，功能有播放，停止，切换音乐
 ![Home_Music](https://github.com/jienian/HomeBox/assets/45189482/e905ef1f-a6b5-4364-8bdc-9b492c7000d0)
-### 7.兼容多设备屏幕大小，适配800x480、1024x600、1280x720、1920x1080、2000x1200、1920x720、1280x480
+### 7.兼容多设备屏幕，适配800x480、1024x600、1280x720、1920x1080、2000x1200、1920x720、1280x480
 ![Home_ScreenSize](https://github.com/jienian/HomeBox/assets/45189482/937ab277-028d-4939-b91c-51c714618566)
 ### 8.通用国际语言
 ![Home_Language](https://github.com/jienian/HomeBox/assets/45189482/2fdfc242-6fb4-4de8-a9af-70eb395082fd)
 
+## 技术
+### 布局设计:
+```
+   
+
+```
