@@ -24,6 +24,11 @@
 ## 技术
 ### 布局设计:
 ```
-   
-
+   # 涉及code机密不介绍: )
 ```
+## 基于scene框架
+https://github.com/bytedance/scene/blob/master/README_cn.md
+
+### 思考为啥要用Scene框架？
+#### 对于需要大量使用动画和过渡效果来提升用户体验的应用，主要优势是看起来更加平滑自然，减少代码复杂性。
+
