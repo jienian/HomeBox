@@ -1,6 +1,6 @@
-# HomeBox
+# HomeBoxDemo
 # Screenshot
-## 2024/3/4-3/18 Develop Home
+## 2024/3/4-3/18 Develop HomeDemo
 ### 1.![HomeUI](https://github.com/jienian/HomeBox/assets/45189482/8720d9a3-e0b0-479e-8e1d-1863f6ca0e3f)
 ### 2.介绍模块结构：顶部状态栏全屏，左部状态栏-最近打开/足迹记录的功能;主体有三点：容器PIP、音乐模块、桌面模块 
 ![HomeUI](https://github.com/jienian/HomeBox/assets/45189482/9f58d51a-f4c7-4b66-9074-906216342df8)
